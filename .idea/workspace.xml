@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f2a2196-d683-4789-af08-2dc9ecef5ddb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Numpy/NumPy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Numpy/NumPy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Numpy/NumPy.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +73,7 @@
       <workItem from="1756188440157" duration="4394000" />
       <workItem from="1756223525812" duration="4389000" />
       <workItem from="1756308081929" duration="681000" />
+      <workItem from="1756308780819" duration="6827000" />
     </task>
     <servers />
   </component>
