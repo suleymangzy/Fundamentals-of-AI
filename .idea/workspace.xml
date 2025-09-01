@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9f2a2196-d683-4789-af08-2dc9ecef5ddb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas/PndasForDataScience.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/PndasForDataScience.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,6 +85,7 @@
       <workItem from="1756586868510" duration="29000" />
       <workItem from="1756668469457" duration="8557000" />
       <workItem from="1756732426844" duration="334000" />
+      <workItem from="1756739682501" duration="2736000" />
     </task>
     <servers />
   </component>
