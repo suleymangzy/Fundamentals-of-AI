@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f2a2196-d683-4789-af08-2dc9ecef5ddb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Pandas/DataVisualization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/PandasForDataVisualization.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/PndasForDataScience.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/PandasForDataScience.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +48,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SGUZEY\Documents\AI\DataVisualization" />
       <recent name="C:\Users\SGUZEY\Documents\AI\Pandas" />
     </key>
   </component>
@@ -93,7 +93,8 @@
       <workItem from="1756739682501" duration="2736000" />
       <workItem from="1756824523864" duration="5473000" />
       <workItem from="1756907851408" duration="6376000" />
-      <workItem from="1756974777930" duration="5782000" />
+      <workItem from="1756974777930" duration="6283000" />
+      <workItem from="1757003311505" duration="2109000" />
     </task>
     <servers />
   </component>
