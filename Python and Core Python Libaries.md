@@ -7,8 +7,8 @@ Bu bölümü
 ---
 
 ## 📑 İçindekiler
-- [Bölüm 1: Python](#Python and Core Python Libaries/Python)
-  - [Python' a Giriş](#Python and Core Python Libaries/Python/FundamentalsOfPython.ipynb)
+- [Bölüm 1: Python](Python%20and%20Core%20Python%20Libaries/Python/)
+  - [Python' a Giriş](Python%20and%20Core%20Python%20Libaries/Python/FundamentalsOfPython.ipynb)
   - [Python' da Veri Tipleri](#Python and Core Python Libaries/Python/DataTypesOfPython.ipynb)
   - [Uygulamalar](#Python and Core Python Libaries/Python/FirstApplications.ipynb)
   - [Döngüler](#Python and Core Python Libaries/Python/Loops.ipynb)
