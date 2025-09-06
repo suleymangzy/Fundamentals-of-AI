@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f2a2196-d683-4789-af08-2dc9ecef5ddb" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python and Core Python Libaries/NumPy/NumPy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python and Core Python Libaries/NumPy/NumPy.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python and Core Python Libaries/Python/Functions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python and Core Python Libaries/Python/Functions.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="9f2a2196-d683-4789-af08-2dc9ecef5ddb" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,7 +96,7 @@
       <workItem from="1757074087545" duration="5425000" />
       <workItem from="1757106848279" duration="3269000" />
       <workItem from="1757111464866" duration="942000" />
-      <workItem from="1757172150130" duration="1371000" />
+      <workItem from="1757172150130" duration="2168000" />
     </task>
     <servers />
   </component>
