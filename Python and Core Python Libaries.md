@@ -1,8 +1,22 @@
 # Python ve Temel Python Kütüphaneleri
 
-Python programlama ve ve temel Python kütüphaneleri hakkında detay bilgiler bulabileceğiniz bu depo bölümü okuyucuları Python ve temel Python kütüphaneleri hakkında öğrenecekleri ile yeterli tatmin duygusuna ulaştıracağına inanmaktayım. 
+Python programlama ve temel Python kütüphaneleri hakkında detay bilgiler bulabileceğiniz bu depo bölümü okuyucuları Python ve temel Python kütüphaneleri hakkında öğrenecekleri ile yeterli tatmin duygusuna ulaştıracağına inanmaktayım. 
 Bu bölümü 
 `Burdur Mehmet Akif Ersoy Üniversitesi/Bucak Bilgisayar ve Bilişim Fakültesi/Yazılım Mühendisliği Bölümü/2023 - 2024 Bahar Dönemi/Python Programlama Dersi/Doç. Dr. Sedat Metlek` in ders notları üzerinden oluşturdum.  
+
+---
+
+## 📑 İçindekiler
+- [Bölüm 1: Python](#Python and Core Python Libaries/Python)
+  - [Python' a Giriş](#Python and Core Python Libaries/Python/FundamentalsOfPython.ipynb)
+  - [Python' da Veri Tipleri](#Python and Core Python Libaries/Python/DataTypesOfPython.ipynb)
+  - [Uygulamalar](#Python and Core Python Libaries/Python/FirstApplications.ipynb)
+  - [Döngüler](#Python and Core Python Libaries/Python/Loops.ipynb)
+  - [Fonksiyonlar](#Python and Core Python Libaries/Python/Functions.ipynb)
+- [Bölüm 2: NumPy](#Python and Core Python Libaries/NumPy)
+- [Bölüm 3: Pandas](#Python and Core Python Libaries/Python)
+
+---
 
 ## Bölüm 1: Python
 * `Python' a Giriş`
@@ -78,12 +92,14 @@ Bu bölümü
      - Fonksiyonların Kapsamı Global ve Yerel Değişkenleri Tanımlama
      - Local ve Global Scope
      - Nesned Function Scope
+
 ## Bölüm 2: NumPy
 * `NumPy`
    - Örnekler
    - Varyans (σ² veya s²)
    - Standart Sapma (σ veya s)
    - Matris Çarpma Koşulu
+
 ## Bölüm 3: Pandas
 * `Pandas`
    - Pandas Nedir?
@@ -95,5 +111,4 @@ Bu bölümü
      - Veri Çerçeveleri
        - Veri Çerçevesi İndeksleme ve Dilimleme
        - Veri Çerçevesinde Sütun Ekleme, Silme ve Yeniden Adlandırma
-    - Veri Setini Tanıma
-      
+   - Veri Setini Tanıma
