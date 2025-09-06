@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f2a2196-d683-4789-af08-2dc9ecef5ddb" name="Changes" comment="" />
+    <list default="true" id="9f2a2196-d683-4789-af08-2dc9ecef5ddb" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python and Core Python Libaries.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python and Core Python Libaries.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,7 +99,7 @@
       <workItem from="1757074087545" duration="5425000" />
       <workItem from="1757106848279" duration="3269000" />
       <workItem from="1757111464866" duration="942000" />
-      <workItem from="1757172150130" duration="2168000" />
+      <workItem from="1757172150130" duration="5072000" />
     </task>
     <servers />
   </component>
