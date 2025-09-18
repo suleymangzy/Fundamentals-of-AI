@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9f2a2196-d683-4789-af08-2dc9ecef5ddb" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python and Core Python Libaries.md" beforeDir="false" afterPath="$PROJECT_DIR$/Python and Core Python Libaries.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,6 +99,9 @@
       <workItem from="1757106848279" duration="3269000" />
       <workItem from="1757111464866" duration="942000" />
       <workItem from="1757172150130" duration="5072000" />
+      <workItem from="1757359625282" duration="1759000" />
+      <workItem from="1758123589445" duration="396000" />
+      <workItem from="1758184763236" duration="359000" />
     </task>
     <servers />
   </component>
